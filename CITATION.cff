@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Finite-Time Trajectory Tracking of a Four Wheeled Mecanum Robot"
+authors:
+  - family-names: Anil
+    given-names: B
+  - family-names: Pandey
+    given-names: Mayank
+  - family-names: Gajbhiye
+    given-names: Sneha
+date-released: 2025
+doi: 10.1080/00207721.2025.2568092
+journal: "International Journal of Systems Science"
+repository-code: "https://github.com/mnki598/Finite-Time-Trajectory-Tracking-of-Mecanum-Wheel-Mobile-Robot"
