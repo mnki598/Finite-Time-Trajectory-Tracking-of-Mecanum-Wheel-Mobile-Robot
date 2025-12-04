@@ -12,4 +12,5 @@ Planned structure:
   and run the controllers.
 - `urdf/` – Robot description (URDF/Xacro) and related mesh files.
 
-Code and configuration files will be added here gradually as the project is cleaned up and organised.
+For Code and configuration files please contact me. 
+ 
